@@ -213,3 +213,8 @@ For Nodejs: do `npm install . localStorage && node test-node.js`
   [JSON.js]: http://www.json.org/json2.js
   [store.min.js]: https://raw.github.com/marcuswestin/store.js/master/store.min.js
   [store+json2.min.js]: https://raw.github.com/marcuswestin/store.js/master/store+json2.min.js
+
+
+### 其他参考
+
++ http://mozilla.github.io/localForage/
