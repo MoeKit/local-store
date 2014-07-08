@@ -1,6 +1,9 @@
 store.js
 ========
 
+---
+[![Browser compatibility](http://moekit.com/support/ie6+)](#)
+
 store.js exposes a simple API for cross browser local storage
 
 ```js
